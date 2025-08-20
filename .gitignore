@@ -1,0 +1,6 @@
+.env
+.venv/
+venv/
+.DS_Store
+ngrok
+__pycache__/
